@@ -1,4 +1,4 @@
-👋 Hi there! I'm Sammy Obonyo 👨‍💻
+👋 Hi there!
 Welcome to my GitHub! I'm a Software Engineer passionate about building impactful and intuitive tech solutions. You’ll find projects showcasing my journey through various technologies and my commitment to crafting efficient, scalable applications here.
 
 🚀 About Me
