@@ -1,8 +1,8 @@
 👋 Hi there!
-Welcome to my GitHub! I'm a Software Engineer passionate about building impactful and intuitive tech solutions. You’ll find projects showcasing my journey through various technologies and my commitment to crafting efficient, scalable applications here.
+Welcome to my GitHub! I'm a Software Engineer passionate about building impactful, intuitive tech solutions and helping startups create robust systems to solve real-world challenges. Here, you’ll find projects that showcase my journey through various technologies and my commitment to crafting efficient, scalable applications tailored for growth and innovation.
 
 🚀 About Me
-I began my journey in software engineering with an ALX scholarship, which introduced me to the foundations of coding, problem-solving, and building real-world projects. Since then, I've become a developer who loves learning, exploring, and innovating!
+I began my journey in software engineering with an ALX scholarship, building on an early interest sparked during my Energy Engineering course, where I interacted with code to implement engineering solutions in Arduino. This experience led me to pursue software development more deeply, transitioning from C to C++ and quickly progressing to real-time problem-solving on various projects. Since then, I've become a developer passionate about learning, exploring, and innovating to create impactful, industry-ready solutions.
 
 💡 Key Skills:
 Languages & Frameworks: Python, JavaScript, TypeScript, React, Django
