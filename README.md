@@ -14,8 +14,9 @@ Frontend: Modern, responsive UI/UX with React and Figma
 Bookwave 📚: A full-featured book subscription platform similar to Kindle Unlimited, where I collaborated in building a seamless, engaging user experience. Used Figma and Trello for UI/UX design.
 YouTube & Spotify Clones 🎶: Built using the MERN stack, these apps emulate streaming platforms with rich UI features and smooth backend functionality.
 ERP & POS System 🧾: Developed using PHP, MySQL, and Java (Swing). This system includes modules for licensing, inventory, and transaction management.
+
 🎓 Education
-I hold a Bachelor of Science in Energy Technology from Kenyatta University, where I developed a strong foundation in engineering principles, numerical analysis, and coding. My academic experience also introduced me to MATLAB, C, C++, and data modeling for engineering applications.
+I completed the ALX Software Engineering program, where I developed a strong foundation in software engineering principles, problem-solving, and coding. My experience in the program introduced me to Python, C, C++, and data structures, as well as practical applications in areas like DevOps, backend development, and system design.
 
 🌱 On a Personal Note
 From Kenya 🇰🇪, with a keen interest in tech for social impact
